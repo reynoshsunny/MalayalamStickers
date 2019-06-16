@@ -1,0 +1,109 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C5578B"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:background="#C5578B" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#C5578B"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="170dp"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/startadding"
+                    android:layout_marginTop="5dp"
+                    android:layout_width="80dp"
+                    android:layout_height="160dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/btn_add_bg"
+                    android:gravity="center_vertical|center_horizontal" />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="170dp"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/startshare"
+                    android:layout_width="80dp"
+                    android:layout_height="160dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/btn_share_bg"
+                    android:gravity="center_vertical|center_horizontal" />
+
+                <Button
+                    android:id="@+id/request_new"
+                    android:layout_width="80dp"
+                    android:layout_height="160dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/btn_request_bg" />
+                <!--android:drawableTop="@drawable/contribute"-->
+                <!--android:text="TO CONTRIBUTE"-->
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="175dp"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/check"
+                    android:layout_width="80dp"
+                    android:layout_height="160dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/btn_update_bg"
+
+                    android:gravity="center_vertical|center_horizontal" />
+
+                <Button
+                    android:id="@+id/startabout"
+                    android:layout_width="80dp"
+                    android:layout_height="160dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/btn_about_bg" />
+
+            </LinearLayout>
+            <com.google.android.gms.ads.AdView
+                android:id="@+id/admob_adview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:backgroundTint="#C5578B"
+                ads:adSize="BANNER"
+                ads:adUnitId="ca-app-pub-9577009223941910/9149499112" />
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,3717 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.reynosh.stickers",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "88",
+      "name": "Dhamu and ramanan",
+      "publisher": "Reynosh",
+      "tray_image_file": "1l.webp",
+      "publisher_email":"reynoshsunny@gmail.com",
+      "publisher_website": "https://www.facebook.com/reynosh.blakmonsters",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1l.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2l.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3l.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4l.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "5l.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "6l.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "7l.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "8l.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "9l.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "10l.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "11l.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "12l.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "13l.webp",
+          "emojis": ["😆","😂"]
+        }
+
+      ]
+    },
+    {
+      "identifier": "87",
+      "name": "Festival stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "123.webp",
+      "publisher_email":"reynoshsunny@gmail.com",
+      "publisher_website": "https://www.facebook.com/reynosh.blakmonsters",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "123.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "456.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "789.webp",
+          "emojis": ["😆","😂"]
+        }
+      ]
+    },
+    {
+      "identifier": "1",
+      "name": "Troll Face",
+      "publisher": "Reynosh",
+      "tray_image_file": "1a.webp",
+      "publisher_email":"reynoshsunny@gmail.com",
+      "publisher_website": "https://www.facebook.com/reynosh.blakmonsters",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1a.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2a.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3a.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4a.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Malayalam Dialogue 1",
+      "publisher": "Reynosh",
+      "tray_image_file": "1b.webp",
+      "publisher_email":"reynoshsunny@gmail.com",
+      "publisher_website": "https://www.facebook.com/reynosh.blakmonsters",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1b.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2b.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3b.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4b.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5b.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "6b.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    }
+  ,
+    {
+      "identifier": "3",
+      "name": "Kerala 1",
+      "publisher": "Reynosh",
+      "tray_image_file": "1c.webp",
+      "publisher_email":"reynoshsunny@gmail.com",
+      "publisher_website": "https://www.facebook.com/reynosh.blakmonsters",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1c.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2c.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3c.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4c.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5c.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "6c.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "7c.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "8c.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "9c.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "10c.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "11c.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "12c.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "13c.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "14c.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "15c.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "16c.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "17c.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "19c.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "20c.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "21c.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "22c.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "23c.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "24c.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "25c.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "26c.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "27c.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    } ,
+    {
+      "identifier": "4",
+      "name": "Suraj",
+      "publisher": "Reynosh",
+      "tray_image_file": "1d.webp",
+      "publisher_email":"reynoshsunny@gmail.com",
+      "publisher_website": "https://www.facebook.com/reynosh.blakmonsters",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1d.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2d.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3d.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4d.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5d.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "6d.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "7d.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "8d.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "9d.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "10d.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "11d.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "12d.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "13d.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "14d.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "15d.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "16d.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    } ,
+    {
+      "identifier": "5",
+      "name": "Mammuty",
+      "publisher": "Reynosh",
+      "tray_image_file": "1e.webp",
+      "publisher_email":"reynoshsunny@gmail.com",
+      "publisher_website": "https://www.facebook.com/reynosh.blakmonsters",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1e.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2e.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3e.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4e.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "6e.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "7e.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "8e.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "9e.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "10e.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "11e.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "12e.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "14e.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    }
+  ,
+    {
+      "identifier": "6",
+      "name": "Game",
+      "publisher": "Reynosh",
+      "tray_image_file": "1f.webp",
+      "publisher_email":"reynoshsunny@gmail.com",
+      "publisher_website": "https://www.facebook.com/reynosh.blakmonsters",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1f.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2f.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3f.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4f.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5f.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "6f.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "7f.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "8f.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "9f.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "10f.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "11f.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "12f.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "13f.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "14f.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "15f.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "16f.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "17f.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "19f.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "20f.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "21f.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "22f.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "23f.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "24f.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "25f.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "26f.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "27f.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    }
+  ,
+    {
+      "identifier": "7",
+      "name": "Lady Dialogue ",
+      "publisher": "Reynosh",
+      "tray_image_file": "1g.webp",
+      "publisher_email":"reynoshsunny@gmail.com",
+      "publisher_website": "https://www.facebook.com/reynosh.blakmonsters",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1g.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2g.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3g.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4g.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5g.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "6g.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "7g.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "8g.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "9g.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "10g.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "11g.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "12g.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "13g.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "14g.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "15g.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "16g.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "17g.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "18g.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "19g.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "20g.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "21g.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "22g.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "23g.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "24g.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "25g.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "26g.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "27g.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "28g.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "29g.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "30g.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    }
+  ,
+    {
+      "identifier": "8",
+      "name": "Love",
+      "publisher": "Reynosh",
+      "tray_image_file": "1h.webp",
+      "publisher_email":"reynoshsunny@gmail.com",
+      "publisher_website": "https://www.facebook.com/reynosh.blakmonsters",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1h.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2h.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3h.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4h.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "6h.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "7h.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "8h.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "9h.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    }  ,
+    {
+      "identifier": "9",
+      "name": "Kerala 2",
+      "publisher": "Reynosh",
+      "tray_image_file": "1i.webp",
+      "publisher_email":"reynoshsunny@gmail.com",
+      "publisher_website": "https://www.facebook.com/reynosh.blakmonsters",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1i.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2i.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3i.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4i.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5i.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "6i.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "7i.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "8i.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "9i.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "10i.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "11i.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "12i.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "13i.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "14i.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "15i.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "16i.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "17i.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "19i.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "20i.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "21i.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "22i.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "23i.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "24i.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "25i.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "26i.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "27i.webp",
+          "emojis": ["😄","😀"]
+        }
+      ,{
+          "image_file": "28i.webp",
+          "emojis": ["😄","😀"]
+        }
+      ,{
+          "image_file": "29i.webp",
+          "emojis": ["😄","😀"]
+        }
+      ,{
+          "image_file": "30i.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },
+    {
+      "identifier": "10",
+      "name": "Hacker",
+      "publisher": "Reynosh",
+      "tray_image_file": "1j.webp",
+      "publisher_email":"reynoshsunny@gmail.com",
+      "publisher_website": "https://www.facebook.com/reynosh.blakmonsters",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1j.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2j.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3j.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4j.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5j.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "7j.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "8j.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "9j.webp",
+          "emojis": ["😄","😀"]
+        }
+      ,{
+          "image_file": "10j.webp",
+          "emojis": ["😄","😀"]
+        }
+      ,{
+          "image_file": "6j.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },
+
+
+    {
+      "identifier": "83",
+      "name": "Diwali Wishes",
+      "publisher": "Reynosh",
+      "tray_image_file": "diwali110.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"diwali110.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"diwali111.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"diwali112.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"diwali113.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"diwali114.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"diwali115.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"diwali12.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"diwali13.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"diwali14.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"diwali15.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"diwali16.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"diwali17.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"diwali18.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"diwali19.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "82",
+      "name": "Birthday Wishes",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1162816.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1162816.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162818.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162819.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162820.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162821.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162822.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162823.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162824.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162825.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162826.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162828.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162829.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162830.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162831.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162833.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162834.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162835.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162836.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162837.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162838.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162840.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162841.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162842.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162843.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162844.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162845.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162846.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162847.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162848.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1162849.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+
+
+    {
+      "identifier": "11",
+      "name": "Malayalam11",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1019579.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_1019579.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1019580.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1019581.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1019582.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1019583.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "12",
+      "name": "PUBG PACK",
+      "publisher": "Reynosh",
+      "tray_image_file": "HELMET.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "BACKACK.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "BANANA-MAN.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "BOAT.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "BUGGY.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "CAREPACKAGE.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "CROUCH-JUMP.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "DACIA.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "DEATH.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "DRINK.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "FRAG-GRENADE.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "GASCAN.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "HELMET.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "INJECT.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "LOGO.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "MEDKIT.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "MOLOTOV.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "MOTOCYCLE2.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "MOTOCYCLE3.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "PAN.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "PAN2.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "PILLS.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "PLANE.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "REDZONE.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "SMOKE-GRENADE.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "UAZ.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "WINNER.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "WINNER2.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "14",
+      "name": "malayalam dialog stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1046271.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_1046271.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046272.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046273.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046274.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046275.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046276.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046277.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "84",
+      "name": "Guy behind table",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1220999.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1220999.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221000.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221008.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221009.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221010.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221011.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221012.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221013.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221030.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221031.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221032.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221033.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221034.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221036.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221037.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221044.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221054.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221055.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221063.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221064.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221065.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221066.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221067.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221068.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221069.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "85",
+      "name": "Guy behind table 1",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1220982.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1220982.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1220983.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1220984.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1220985.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1220986.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1220987.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221001.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221002.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221003.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221004.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221006.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221007.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221020.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221021.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221022.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221023.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221024.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221025.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221038.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221039.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221040.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221041.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221042.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221043.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221056.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221057.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221058.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221059.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221061.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221062.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "86",
+      "name": "Guy behind table 2",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1220988.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1220988.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1220990.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1220991.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1220992.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1220993.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1220994.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1220995.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1220996.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1220998.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221014.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221015.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221016.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221018.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221019.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221026.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221027.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221028.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221029.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221045.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221047.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221048.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221049.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221050.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221051.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221052.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221053.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221070.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221071.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221073.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1221074.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "15",
+      "name": "malayalam dialog stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1046279.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_1046279.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046280.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046281.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046282.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046283.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046284.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046285.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046286.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046287.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046288.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046289.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046290.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046291.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046292.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046293.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046294.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046295.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046296.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046297.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046298.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046299.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046300.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046301.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046302.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046303.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046304.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046305.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046306.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046307.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "16",
+      "name": "Malayalam stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1046357.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_1046357.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046358.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046359.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046360.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046361.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046362.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046363.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046364.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046365.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046366.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046367.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046368.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046369.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046370.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046371.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046372.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046373.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046374.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046375.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046376.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046377.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046378.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046379.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046380.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046381.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046382.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "17",
+      "name": "Game of thrones",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1046414.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1046414.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046415.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046416.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046417.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046418.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046419.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046420.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046421.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046422.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046423.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046424.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046425.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046426.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046427.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046428.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046429.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046430.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046431.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046432.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046433.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046435.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046436.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046437.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046438.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046448.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046449.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046450.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+
+    },
+
+    {
+      "identifier": "19",
+      "name": "Malayalam Memes",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1046731.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_1046731.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046732.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046733.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046734.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046735.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046736.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046737.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046738.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046739.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046748.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046749.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046750.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046751.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046753.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046757.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046760.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046763.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046766.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046792.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046795.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046798.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046801.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046802.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046804.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046806.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046809.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046811.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046825.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046827.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "20",
+      "name": "Malayalam Memes1",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1046979.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_1046896.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046897.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046898.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046899.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046901.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046903.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046906.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046909.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046914.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046916.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046943.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046944.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046945.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046946.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046947.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046954.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046955.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046956.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046957.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046958.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046973.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046974.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046975.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046976.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046977.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046978.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046979.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046980.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "21",
+      "name": "Malayalam text",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1046308.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_1046308.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046309.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046310.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046311.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046312.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046313.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046314.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046315.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "22",
+      "name": "Malayalam sticker new",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1046383.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_1046383.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046384.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046385.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046386.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046387.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046388.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046389.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046390.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046391.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046392.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046393.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046394.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046395.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046396.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "23",
+      "name": "Game of thrones 1",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1046440.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1046439.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046441.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046442.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046443.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046444.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046445.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046446.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046447.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046456.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046457.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046458.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046459.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046460.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046461.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046462.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046463.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046464.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046468.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046469.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046470.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046471.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046474.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046475.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046476.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046477.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046478.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+
+    },
+    {
+      "identifier": "24",
+      "name": "Game of thrones 2",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1046451.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_1046451.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046452.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046453.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046454.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046455.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046465.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046466.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046467.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "27",
+      "name": "Malayalam Memes",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1046723.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_1046723.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046724.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046725.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046726.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046727.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046728.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046729.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046730.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046740.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046741.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046742.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046743.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046744.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046745.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046746.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046747.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046770.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046773.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046776.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046779.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046782.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046784.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046786.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046789.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046813.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046816.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046818.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046821.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046823.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "28",
+      "name": "Malayalam Memes",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1046922.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_1046922.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046926.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046929.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046932.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046935.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046936.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046948.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046949.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046950.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046951.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046952.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046953.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046965.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046966.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046967.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046968.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046969.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046970.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046982.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046983.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046984.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046985.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046986.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046987.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046999.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1047000.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1047001.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1047002.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1047003.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1047004.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "29",
+      "name": "Malayalam Memes",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1046889.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_1046889.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046890.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046891.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046892.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046893.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046894.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046895.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046920.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046937.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046938.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046939.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046940.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046941.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046942.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046959.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046960.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046961.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046962.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046963.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046964.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046971.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046972.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046988.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046989.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046990.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046991.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046992.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046993.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046994.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046995.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "30",
+      "name": "Malayalam Memes",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1046981.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_1046981.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046996.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046997.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1046998.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1047005.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1047006.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1047007.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1047008.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1047009.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1047010.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "31",
+      "name": "Manjappada Kerala blasters",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1050660.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1050660.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"Kerala-blasters-12th-Player-Square-Color-Logo.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1050661.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1050662.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1050663.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1050664.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1050665.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1050666.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1050667.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1050668.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1050669.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1050670.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1050671.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1050672.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1050673.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1050675.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1050676.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1050677.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1050678.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "32",
+      "name": "Actor Vijay Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1051477.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_1051477.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051478.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051479.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051480.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051481.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051482.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051483.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051484.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051485.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051486.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051487.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051488.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051489.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051490.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051491.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051492.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051493.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051494.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051495.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051496.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051497.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051498.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051499.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051500.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051501.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051502.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "file_1051503.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "33",
+      "name": "DQ Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1045973.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1045973.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045988.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045990.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045991.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045994.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045996.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045998.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046020.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046023.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046025.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046028.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046030.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046032.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046040.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054341.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054342.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054343.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054344.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054345.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "34",
+      "name": "DQ Stickers 1",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1046066.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1046066.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046068.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046069.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046072.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046074.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046076.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046077.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046080.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046081.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046083.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046085.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046087.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046090.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046092.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046094.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046096.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046098.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046100.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046101.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046104.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046107.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046109.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046111.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046113.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046114.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046117.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046118.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046121.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046123.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054347.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "35",
+      "name": "DQ Stickers 2",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1045944.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1045944.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045947.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045949.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045950.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045953.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045954.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045975.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045978.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045979.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045981.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045982.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045986.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046004.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046005.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046006.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046007.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046008.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046010.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046034.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046035.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046036.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046037.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046038.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046039.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046060.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046063.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046064.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054338.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054339.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054340.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "36",
+      "name": "DQ Stickers 3",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1045955.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1045955.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045957.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045959.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045961.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045963.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045965.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045966.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045969.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045970.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045972.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1045999.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046000.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046001.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046002.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046003.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046011.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046013.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046015.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046017.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046018.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046041.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046043.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046044.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046046.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046048.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046050.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046052.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046055.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046057.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1046058.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "37",
+      "name": "Mammootty stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1054752.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1054752.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054753.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054754.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054755.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054756.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054757.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054758.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054759.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054760.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054761.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054762.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054763.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "38",
+      "name": "Mohanlal Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "STK-20181030-WA0159.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"STK-20181030-WA0159.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054764.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054765.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054766.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054767.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054768.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054769.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054770.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054771.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054772.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054773.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054774.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1054775.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "39",
+      "name": "Messi Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1055021.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1055021.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055022.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055023.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055024.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055026.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055027.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055028.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055029.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055030.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055031.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055032.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055034.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055035.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055037.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055038.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055039.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055040.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055041.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055042.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055043.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055044.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055046.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055047.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055048.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055049.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055051.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055053.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055055.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055057.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "40",
+      "name": "CR7 Ronaldo Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1055109.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1055108.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055109.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055110.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055111.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055112.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055113.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055114.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055115.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055116.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055117.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055118.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055119.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055120.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055121.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055122.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055123.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1055124.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "41",
+      "name": "Ice Age Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1078835.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1078835.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078836.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078837.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078838.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078839.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078840.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078841.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078842.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078843.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078844.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078845.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078846.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078847.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078848.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078849.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078850.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078851.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078852.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078853.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078854.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078855.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078856.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078857.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078858.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "43",
+      "name": "Mallu Actress Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1078901.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1078901.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078902.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078903.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078904.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078905.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078906.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078907.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078908.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078909.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078910.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078911.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078912.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078913.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078914.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078915.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078916.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078917.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078918.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078919.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078920.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078921.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "44",
+      "name": "Fifa club Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1078922.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1078922.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078923.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078925.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078926.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078927.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078928.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078929.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078930.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078931.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078932.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078933.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078934.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078935.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078936.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078937.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078938.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078939.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078940.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078941.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078942.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078943.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078944.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078945.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078946.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078947.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078948.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078949.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078950.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078951.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078952.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "45",
+      "name": "Marvel Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1078969.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1078969.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078970.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078971.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078972.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078978.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078979.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078980.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078981.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078982.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078995.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078996.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078997.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078998.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078999.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079000.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079001.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079002.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079003.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079004.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079017.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079018.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079019.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079020.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079021.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079022.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079023.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079029.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079030.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079031.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "46",
+      "name": "Minions Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1067881.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1067881.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067882.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067883.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067884.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067885.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067886.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067887.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067893.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067900.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067914.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067915.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067928.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067929.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067930.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067931.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067932.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067933.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067934.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067955.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067956.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067958.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067959.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067965.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067966.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067967.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067968.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067976.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067977.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067991.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067992.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "47",
+      "name": "Communists Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1079200.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1079200.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079201.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079202.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079203.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079204.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079205.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079206.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079207.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079208.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079209.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079210.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079211.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079212.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "48",
+      "name": "Tamil Dialog Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1079472.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1079328.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079329.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079330.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079331.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079332.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079333.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079334.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079335.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079342.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079351.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079352.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079364.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079365.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079366.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079367.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079368.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079369.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079376.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079402.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079404.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079407.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079409.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079410.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079412.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079415.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079416.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079443.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079444.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079471.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079472.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "49",
+      "name": "Malayalam comedy troll Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1079695.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1079695.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079697.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079700.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079703.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079705.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079707.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079709.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079711.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079713.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079715.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079717.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079718.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079721.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079723.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079724.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079725.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079726.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079727.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079728.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079729.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079730.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079731.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079732.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079733.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079734.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079735.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079736.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "50",
+      "name": "Malayalam comedy troll Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1079838.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1079838.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079840.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079844.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079845.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079847.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079849.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079852.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079854.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079856.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079858.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079859.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079863.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079864.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079865.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079866.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079867.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079868.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079869.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079870.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079871.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079872.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079873.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079874.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079875.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079876.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079877.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079878.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079879.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079880.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079881.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "51",
+      "name": "Nivin Pauly Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1080054.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1080054.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080057.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080058.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080060.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080062.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080064.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080069.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080070.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080073.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080074.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080077.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080079.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080082.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080083.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080085.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080087.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080092.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080094.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080096.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080098.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080101.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080103.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080104.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080106.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080108.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080110.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080112.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080114.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080115.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080118.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "52",
+      "name": "Tech Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1080266.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1080266.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080267.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080268.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080269.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080270.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080271.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080272.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080273.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080274.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080290.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080291.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080304.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080305.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080306.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080307.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080308.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080315.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080316.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080336.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080337.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080338.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080339.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080340.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080341.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080342.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080349.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080356.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080357.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080371.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080372.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "53",
+      "name": "Dinkan Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1082578.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1082578.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1082579.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1082580.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1082581.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1082582.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1082583.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1082584.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1082585.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1082586.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1082587.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1082588.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1082589.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1082590.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "54",
+      "name": "Custom Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "custom.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"custom.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"final.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"logo_forbranding-01.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"logo_forbranding-02.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"photo_2018-11-01_10-19-57.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"photo_2018-11-01_10-20-13.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "55",
+      "name": "Marvel 1",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1078953.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1078953.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078957.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078958.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078959.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078960.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078973.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078974.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078975.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078976.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078977.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078990.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078991.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078992.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078993.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078994.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079007.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079008.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079009.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079010.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079011.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079024.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079025.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079026.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079027.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079028.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079041.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079042.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079043.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079044.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079045.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "56",
+      "name": "Marvel 2",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1078961.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1078961.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078962.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078963.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078964.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078965.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078966.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078967.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078968.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078983.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078984.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078985.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078986.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078987.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078988.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078989.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079005.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079006.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079012.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079013.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079014.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079015.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079016.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079032.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079033.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079034.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079035.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079036.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079037.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079038.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079054.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "57",
+      "name": "Marvel 3",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1079039.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1079039.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079040.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079046.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079047.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079048.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079049.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079050.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079051.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079052.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079053.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "58",
+      "name": "Minions 1",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1067840.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1067840.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067888.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067889.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067890.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067891.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067892.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067905.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067906.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067907.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067908.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067909.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067922.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067923.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067924.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067925.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067926.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067941.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067942.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067943.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067944.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067946.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067960.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067961.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067962.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067963.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067964.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067979.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067980.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067981.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067982.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "59",
+      "name": "Minions 2",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1067841.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1067841.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067894.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067895.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067896.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067897.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067898.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067899.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067916.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067917.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067918.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067919.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067920.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067921.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067939.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067947.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067948.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067949.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067950.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067951.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067970.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067971.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067972.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067973.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067974.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067975.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067993.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067994.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067996.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067997.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067998.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "60",
+      "name": "Minions 3",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1067873.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1067873.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067874.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067875.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067876.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067877.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067878.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067879.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067880.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067901.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067902.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067903.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067904.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067910.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067911.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067912.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067913.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067935.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067936.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067937.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067938.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067952.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067953.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067954.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067983.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067984.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067985.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067987.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067988.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067989.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067990.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "61",
+      "name": "Tamil troll meme 1",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1079354.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1079354.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079355.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079356.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079357.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079358.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079370.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079371.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079372.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079373.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079374.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079375.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079387.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079388.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079390.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079391.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079393.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079395.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079419.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079420.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079423.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079424.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079427.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079428.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079452.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079455.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079456.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079458.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079460.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079463.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079478.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "62",
+      "name": "Tamil troll meme 2",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1079324.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1079324.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079336.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079337.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079338.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079339.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079340.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079341.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079353.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079359.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079360.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079361.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079362.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079363.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079381.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079382.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079383.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079384.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079385.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079386.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079431.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079432.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079435.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079436.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079439.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079440.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079473.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079474.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079475.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079476.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079477.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "63",
+      "name": "Tamil troll meme 3",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1079319.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1079319.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079320.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079321.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079322.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079323.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079325.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079326.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079327.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079343.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079344.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079345.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079346.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079347.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079348.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079349.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079350.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079377.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079378.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079379.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079380.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079397.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079398.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079401.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079447.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079448.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079451.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079465.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079466.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079468.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079470.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "64",
+      "name": "Malayalam meme ",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1079737.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1079737.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079738.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079739.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079740.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079741.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079742.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079743.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079744.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079746.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079747.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079748.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "65",
+      "name": "Tech Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1080293.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1080293.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080294.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080295.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080296.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080297.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080309.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080310.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080311.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080312.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080313.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080314.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080326.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080327.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080328.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080329.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080330.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080331.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080343.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080344.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080345.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080346.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080347.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080348.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080360.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080361.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080362.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080363.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080364.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080365.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080377.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "66",
+      "name": "Tech Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1080275.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1080275.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080276.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080277.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080278.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080279.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080280.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080281.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080292.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080298.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080299.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080300.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080301.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080302.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080303.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080321.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080322.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080323.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080324.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080325.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080332.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080350.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080351.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080352.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080353.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080354.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080355.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080373.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080374.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080375.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080376.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "67",
+      "name": "Tech Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1080258.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1080258.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080259.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080260.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080261.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080262.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080263.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080264.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080265.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080282.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080283.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080284.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080285.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080286.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080287.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080288.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080289.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080317.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080318.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080319.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080320.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080333.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080334.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080335.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080358.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080359.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080366.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080367.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080368.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080369.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1080370.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "68",
+      "name": "Hollywood memes",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1062784.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1062784.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062785.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062786.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062787.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062788.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062789.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062790.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062791.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062792.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062793.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062794.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062795.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062796.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062797.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062798.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062799.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062800.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "69",
+      "name": "Hollywood memes 1",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1062802.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1062802.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062803.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062805.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062806.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062819.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062820.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062821.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062822.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062835.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062836.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062837.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062838.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062839.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062852.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062853.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062854.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062855.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062856.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062857.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062869.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062870.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062871.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062872.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062873.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062874.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062886.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062887.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062888.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062889.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062890.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "70",
+      "name": "Hollywood memes 2",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1062826.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1062826.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062827.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062828.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062829.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062830.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062831.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062832.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062833.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062834.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062840.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062841.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062842.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062843.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062848.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062851.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062858.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062859.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062860.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062861.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062862.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062863.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062864.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062865.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062866.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062880.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062881.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062882.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062883.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062884.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062885.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "71",
+      "name": "Hollywood memes 3",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1062801.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1062801.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062804.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062807.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062808.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062809.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062810.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062811.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062812.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062813.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062814.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062815.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062816.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062817.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062818.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062823.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062824.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062825.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062844.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062845.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062846.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062847.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062849.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062850.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062867.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062868.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062875.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062876.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062877.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062878.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062879.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "72",
+      "name": "Rajnikanth  Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1083787.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1083787.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1083788.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1083789.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1083790.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1083791.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1083792.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1083793.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1083794.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1083795.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1083796.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1083797.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1083798.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1083799.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1083800.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1083801.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1083802.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "73",
+      "name": "Surya  Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_15630129.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_15630129.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630130.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630131.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630132.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630133.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630135.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630136.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630137.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630138.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630147.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630148.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630149.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630150.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630151.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630152.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630153.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630154.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630155.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630164.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630165.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630166.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630167.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630168.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630169.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630170.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630171.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630172.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630173.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "74",
+      "name": "Surya 1 Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_15630120.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_15630120.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630121.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630123.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630124.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630125.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630126.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630127.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630128.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630139.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630140.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630141.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630142.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630143.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630144.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630145.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630146.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630156.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630157.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630158.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630159.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630160.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630161.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630162.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630163.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630174.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630175.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630176.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630177.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630178.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_15630179.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "75",
+      "name": "Cricket Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1087063.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1087063.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087064.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087065.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087066.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087067.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087068.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087069.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087070.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087071.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087072.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087080.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087081.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087082.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087083.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087084.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087085.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087086.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087087.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087088.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087089.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "76",
+      "name": "Cricket 1 Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1087056.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1087056.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087057.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087058.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087059.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087060.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087061.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087062.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087073.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087074.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087075.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087076.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087077.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087078.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087079.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087090.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087091.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087092.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087093.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1087094.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },{
+      "identifier": "77",
+      "name": "Kerala (piravi) Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "keralapiravi2.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"1.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"10.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"11.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"12.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"2.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"3.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"4.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"5.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"6.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"7.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"8.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"9.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"Untitled.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"keralapiravi.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"keralapiravi2.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"keralapiravi3.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },{
+      "identifier": "78",
+      "name": "Malayalam Dialogs",
+      "publisher": "Reynosh",
+      "tray_image_file": "file_1019481.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1019481.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1019482.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1019484.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1019486.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1019487.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1019488.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1019489.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1019490.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1019491.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1019492.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1019493.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1019494.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1019496.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1019497.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1019498.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1019499.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1019500.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1019501.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1019506.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1019508.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "80",
+      "name": "Allu Arjun Stickers",
+      "publisher": "Reynosh",
+      "tray_image_file": "STK-20181101-WA0107.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"STK-20181101-WA0107.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"STK-20181101-WA0108.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"STK-20181101-WA0109.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"STK-20181101-WA0110.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"STK-20181101-WA0111.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"STK-20181101-WA0112.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"STK-20181101-WA0113.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"STK-20181101-WA0114.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"STK-20181101-WA0115.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"STK-20181101-WA0116.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    }
+
+  ]
+}
